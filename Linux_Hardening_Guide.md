@@ -6,6 +6,7 @@
 ***
 
 **Lock the boot directory**
+
 The boot directory contains important files related to the Linux kernel, 
 so you need to make sure that this directory is locked down to read-only 
 permissions by following the next simple steps. First, open the “fstab” file.
