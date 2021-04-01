@@ -4,8 +4,10 @@ ___
 ## Version 0.9
 
 ### Setting up Ubuntu 20.14 LTS 
-
 ___
+
+## LOCKING DOWN THE OS
+
 **Lock the boot directory**
 
 The boot directory contains important files related to the Linux kernel, 
