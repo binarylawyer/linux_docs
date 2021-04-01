@@ -1,11 +1,12 @@
-# Aerostat Ubuntu Linux Hardening Guide
+___
+## Aerostat Ubuntu Linux Hardening Guide
 ---
 ## Version 0.9
 
 ### Setting up Ubuntu 20.14 LTS 
-***
 
 **Lock the boot directory**
+___
 
 The boot directory contains important files related to the Linux kernel, 
 so you need to make sure that this directory is locked down to read-only 
@@ -17,8 +18,9 @@ You can also mount remote server file system or
 your own home directory using special sshfs and fuse tools.
 
 **Links**
-http://bookofzeus.com/harden-ubuntu/
-https://www.pluralsight.com/blog/it-ops/linux-hardening-secure-server-checklist
+
+1.  http://bookofzeus.com/harden-ubuntu/
+2.  https://www.pluralsight.com/blog/it-ops/linux-hardening-secure-server-checklist
 
 <table>
   <tr>
