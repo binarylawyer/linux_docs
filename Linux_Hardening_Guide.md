@@ -10,8 +10,6 @@ The boot directory contains important files related to the Linux kernel,
 so you need to make sure that this directory is locked down to read-only 
 permissions by following the next simple steps. First, open the “fstab” file.
 
-this is a change.
-
 **Encrypt Data Communication For Linux Server**
 Use scp, ssh, rsync, or sftp for file transfer. 
 You can also mount remote server file system or 
